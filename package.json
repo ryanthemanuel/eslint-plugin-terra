@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-terra",
+  "version": "0.0.0",
+  "description": "ESLint rules for terra",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Ryan Manuel",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "eslint": "~3.9.1"
+  }
+}
